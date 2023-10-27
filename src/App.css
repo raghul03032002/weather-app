@@ -1,0 +1,35 @@
+
+* {
+    box-sizing: border-box;
+  }
+  .searchbar{
+    background:transparent;
+    border:none;
+    border-bottom:2px solid white;
+    outline:none;
+    color:white;
+    font-size:16px;
+}
+.wcard{
+    border-radius: 25px;
+}
+.img{
+    cursor: pointer;
+}
+
+body{
+    background:url("https://nordicapis.com/wp-content/uploads/6-Best-Free-and-Paid-Weather-APIs.png") fixed no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.search_icon{
+    color : black;
+    background-color:aqua;
+    padding:5px;
+    border-radius:7px;
+    cursor:pointer;
+}
+.wind-img{
+    width: 26px;
+    height: 35px;
+}
